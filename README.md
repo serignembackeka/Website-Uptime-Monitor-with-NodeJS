@@ -1,0 +1,2 @@
+# Website-Uptime-Monitor-with-NodeJS
+As a maintainer of a website, you will probably want to know when the website is down, before any user. Some tools like Pingdom or Uptime Robot can help you with that, but their free plans only include few features with limited usage.  You can create your own modular service that can do the same job and get a notification whenever one of your websites goes down, 💯 % free.
